@@ -11,7 +11,7 @@ The data model contains list of diagrams with _boxes_ connected with _connection
 To run the server, run:
 
 ```
-npx jsonhost@latest
+npx apidroid@latest
 ```
 
 ## Getting the data
